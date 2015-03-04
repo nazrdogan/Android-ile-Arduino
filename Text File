@@ -1,0 +1,11 @@
+Bölüm Sonu
+
+Bu bölümde Arduino ADK kartımızı kullanarak led yakma ve ışığın şiddetini ayarlamak için iki tane proje yaptık. Bu projelerden ögrendiğimiz  Android'ten Arduino'ya nasıl veri gönderdildiğidir. Projelerin ortak yanı Arduino'ya veri göndermek olsada iki proje'de farklı şeyler için yapılmıştır. Proje 1'de sadece 1 (HIGH) ve 0 (LOW) değeri gönderilerek LED'in kontrolü yapılmıştır. Proje 2' de ise PWM tekniği kullanılarak 0-255 değer göndererek LED'in parlaklığını değiştirdik. Her iki projede bize temel olacak bilgiler içermektedir.
+
+---
+
+Eksik olan yer için
+
+ADT(Android Developer Tools) uygulamalarımızın arayüzünü düzenlememiz için Grafik Designer'a sahiptir.Grafik Designer'da bırak ile yeni arayüz elemanları ekleyebiliriz. Bunların yerini görsel olarak görebiliriz. Bütün  stil özelliklerine mühadele edip değiştirebiliriz.
+
+-- 
